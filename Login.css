@@ -8,7 +8,7 @@
 
 .section{
     min-height: 100vh;
-    background: url('/hero-images/loginback.jpg') no-repeat;
+    background: url('./hero-images/loginback.jpg') no-repeat;
     background-position-x: -200px;
     background-size: cover;
   }
