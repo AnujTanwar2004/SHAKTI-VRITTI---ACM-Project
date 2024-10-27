@@ -362,7 +362,7 @@ body{
     border: 1px solid #088178;
 }
  #sm-banner .banner-box2{
-    background-image: url('/banner/b10.jpg');
+    background-image: url('./banner/b10.jpg');
     align-items: flex-end;
  }
  #banner3{
@@ -378,7 +378,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-     background-image: url('/banner/b3.jpg');
+     background-image: url('./banner/b3.jpg');
     min-width: 30%;
     height:30vh;
     background-size: cover;
@@ -389,12 +389,12 @@ body{
  #banner3 .banner-box2{
   
     cursor: pointer;
-    background-image: url('/banner/b6.jpg');
+    background-image: url('./banner/b6.jpg');
  }
  
  #banner3 .banner-box3{
 
-    background-image: url('/banner/b7.jpg');
+    background-image: url('./banner/b7.jpg');
 
  }
  #banner3 h2{
@@ -421,7 +421,7 @@ body{
    flex-wrap: wrap;
    background: cover;
     align-items: center; 
-   background-image: url('/banner/b14.jpg');
+   background-image: url('./banner/b14.jpg');
  }
 #newslatter h4{
     font-size: 22px;
@@ -535,7 +535,7 @@ footer p{
 /*  shop page
  */ 
  #page-header{
-    background-image: url('/banner/b5.jpg');
+    background-image: url('./banner/b5.jpg');
     background-position: center;
     width: 100%;
     background-size: cover;
