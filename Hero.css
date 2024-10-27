@@ -333,7 +333,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url( '/banner/b11.jpg');
+    background-image: url( './banner/b11.jpg');
     width: 580px;
     height:54vh;
     background-size: cover;
